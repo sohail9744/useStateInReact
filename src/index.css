@@ -1,0 +1,24 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: rgba(130, 174, 236, 0.475);
+}
+
+.subContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+  gap: 7px;
+  background: antiquewhite;
+  padding: 23px;
+}
+.mainContainer {
+  display: flex;
+  justify-content: space-evenly;
+  height: 100vh;
+}
+.MF-options {
+  display: flex;
+  justify-content: space-between;
+}
